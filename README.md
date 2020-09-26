@@ -1,44 +1,123 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+UI Clone - Discord
+</h1>
 
-## Available Scripts
+<hr>
 
-In the project directory, you can run:
+<p align="center">
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   
+</p>
 
-### `yarn start`
+<h4 align="center"> 
+	🚧  UI Clone - Discord 🚀 em andamento 🚀 🚧
+</h4>
+<p align="center">Deployed <a href="">here</a>.</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+## 💻 Sobre o projeto
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+UI Clone Discord para fins de estudos.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Projeto desenvolvido durante a **UI Clone** 
+oferecido por [Rocketseat](https://www.youtube.com/watch?v=x4FdZd2-_uU&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=2&t=220s).
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Como executar o projeto
 
-### `yarn eject`
+Este projeto é feito em uma parte:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. Frontend (youtube-clone-discord folder)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Pré-requisitos
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### 🧭 Rodando a aplicação web
 
-## Learn More
+```bash
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Clone este repositório
+$ git clone https://github.com/marcelo-rafael/youtube-clone-discord/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd youtube-clone-discord
+
+# Instale as dependências
+$ yarn install or npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start or npm run start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
+
+---
+
+## Ideias para implementar
+
+- [ ] Add "scroll to new messages" button
+- [ ] Add state management (switch between Servers and Channels)
+- [ ] Back-end integration (roles, permissions, mentions, friend requests and more)
+
+---
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+-   **[Styled Components](https://github.com/styled-components/styled-components)**
+-   **[Styled-icons](https://styled-icons.js.org/)**
+
+
+> Veja o arquivo  [package.json](https://github.com/marcelo-rafael/youtube-clone-discord/blob/master/package.json)
+
+---
+
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+
+---
+
+## Autor
+
+<img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-rafael-gonçalves/)](https://www.linkedin.com/in/marcelo-rafael-gonçalves/) 
+[![Gmail Badge](https://img.shields.io/badge/-marcelo.rafael.goncalves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelo.rafael.goncalves@gmail.com)](mailto:marcelo.rafael.goncalves@gmail.com)
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+
+Feito com ❤️ por Marcelo Rafael Gonçalves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
+
+---
+
+##  Versões do README
+
+[Português 🇧🇷](./README.md)  |  [English 🇺🇸](./README-en.md)
