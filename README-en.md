@@ -1,5 +1,5 @@
 <h1 align="center">
-UI Clone - Twitter Responsive
+UI Clone - Discord
 </h1>
 
 <hr>
@@ -11,7 +11,7 @@ UI Clone - Twitter Responsive
 </p>
 
 <h4 align="center"> 
-	🚧  UI Clone - Twitter Responsive 🚀 progress 🚀 🚧
+	🚧  UI Clone - Discord 🚀 progress 🚀 🚧
 </h4>
 <p align="center">Deployed <a href="https://youtube-clone-twitter.netlify.app/">here</a>.</p>
 
@@ -25,9 +25,10 @@ UI Clone - Twitter Responsive
 
 ## About
 
-Responsive Twitter UI Clone (partial) for study purposes.
 
-Project developed during the **UI Clone** offered by [Rocketseat](https://www.youtube.com/watch?v=K-8z_4xvT3o&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=6).
+UI Clone Discord for study purposes.
+
+Project developed during the **UI Clone** offered by [Rocketseat](https://www.youtube.com/watch?v=x4FdZd2-_uU&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=2&t=220s).
 
 ---
 
@@ -35,7 +36,7 @@ Project developed during the **UI Clone** offered by [Rocketseat](https://www.yo
 
 This project is done in one part:
 
-1. Frontend (youtube-clone-twitter folder)
+1. Frontend (youtube-clone-discord folder)
 
 ### Pré-requisites
 
@@ -48,10 +49,10 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/marcelo-rafael/youtube-clone-twitter/
+$ git clone https://github.com/marcelo-rafael/youtube-clone-discord/
 
 # Access the project folder in your terminal
-$ cd youtube-clone-twitter
+$ cd youtube-clone-discord
 
 # Install the dependencies
 $ yarn install or npm install
@@ -62,6 +63,15 @@ $ yarn start or npm run start
 # The application will open on the port:3000 - acesse http://localhost:3000
 
 ```
+---
+
+## 
+Ideas to implement
+
+- [ ] Add "scroll to new messages" button
+- [ ] Add state management (switch between Servers and Channels)
+- [ ] Back-end integration (roles, permissions, mentions, friend requests and more)
+
 
 ---
 
@@ -72,8 +82,7 @@ The following tools were used in the construction of the project:
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Styled Components](https://github.com/styled-components/styled-components)**
--   **[react-icons](https://react-icons.github.io/react-icons/)**
--   **[react-sticky-box](https://www.npmjs.com/package/react-sticky-box)**
+-   **[Styled-icons](https://styled-icons.js.org/)**
 
 > See the file  [package.json](https://github.com/marcelo-rafael/youtube-clone-twitter/blob/master/package.json)
 
