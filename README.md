@@ -13,7 +13,7 @@ UI Clone - Discord
 <h4 align="center"> 
 	🚧  UI Clone - Discord 🚀 em andamento 🚀 🚧
 </h4>
-<p align="center">Deployed <a href="">here</a>.</p>
+<p align="center">Deployed <a href="https://youtube-clone-discord.netlify.app/">here</a>.</p>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
